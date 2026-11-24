@@ -5,7 +5,9 @@
 - Entries close: 2026-11-25T05:50:00Z (12:50 WIB 25 Nov 2026)
 - Result due: 2026-12-17T09:50:00Z
 - Repo: https://github.com/jekglory/u-pucuys-the-perfect-pickup-line-f6725cf6
-- Commit: 0275fe91504934804622f543f3b83fd4f8edeeae (branch main, pushed)
+- Commit (entry code): 0275fe91504934804622f543f3b83fd4f8edeeae
+- Commit (CHECKPOINT.md): 0e1039d56e7f356e7fda8af5a8876e0e50fc3796 (branch main, pushed)
+  — the later submit run should use the repo HEAD at submit time.
 - Entry text (67 chars, 67 bytes, single line):
   "My uptime is 99.99%, but the 0.01% is the time I spend missing you."
 - Program: pure stdlib Python `main.py`, writes the line to
